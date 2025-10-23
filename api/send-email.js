@@ -48,7 +48,7 @@ export default async function handler(req, res) {
   `;
 
   
-  sendSmtpEmail.sender = { name: "Your Startup Bot", email: "your-verified-sender@gmail.com" }; 
+  sendSmtpEmail.sender = { name: "sventis", email: "sirelliotalderson@gmail.com" }; 
 
   
   sendSmtpEmail.to = [
