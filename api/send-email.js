@@ -52,7 +52,7 @@ export default async function handler(req, res) {
 
   
   sendSmtpEmail.to = [
-    { email: "your-personal-email@gmail.com", name: "Sonu Rao" } 
+    { email: "paikraov58@gmail.com", name: "Sonu Rao" } 
   ];
 
   
